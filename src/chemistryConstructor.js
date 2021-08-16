@@ -17,4 +17,4 @@ class element {
    }
 };
 
-module.exports.element = element
+module.exports = {element};
