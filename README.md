@@ -24,4 +24,5 @@ to-be-added
 - Density [grams per cubic centimeter (`g/cm3`) ]
 
 # References
-All this information was gathered thanks to National Center for Biotechnology Information (2021). PubChem Periodic Table of Elements. Retrieved August 16, 2021 from https://pubchem.ncbi.nlm.nih.gov/periodic-table/.
+All this information was gathered thanks to:
+- National Center for Biotechnology Information (2021). PubChem Periodic Table of Elements. Retrieved August 16, 2021 from https://pubchem.ncbi.nlm.nih.gov/periodic-table/.
