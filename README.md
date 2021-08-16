@@ -6,12 +6,11 @@
 A library that contains all data from all elements in the periodic table.
 
 # Installation
+Using npm
+``$ npm i chemistrylib --save``
 
-##### npm
-`npm i chemistryLib --save`
-
-##### yarn
-`to-be-added`
+Using yarn
+``to-be-addded``
 
 # Units
 - Atomic mass [units of mass (`u`)]
