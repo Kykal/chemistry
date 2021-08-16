@@ -11,5 +11,6 @@ class element {
       this.melting_point = melting_point;
       this.boiling_point = boiling_point;
    }
-}
+};
 
+module.exports.element = element
