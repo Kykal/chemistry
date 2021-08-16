@@ -8,7 +8,7 @@ A library that contains all data from all elements in the periodic table.
 # Installation
 Using npm
 ```
-$ npm i chemistrylib --save
+npm i chemistrylib --save
 ```
 
 Using yarn
