@@ -18,9 +18,8 @@ to-be-added
 
 # Units
 - Atomic mass [unified atomic mass unit (`u`)]
-- Atomic radius by van der Waals [picometre (`pm`)]
+- Atomic radius [picometre (`pm`)]
 - Ionization energy & electron affinity [electronVolts (`eV`)]
-- Melting & boiling points [Kelvin (`K`)]
 - Density [grams per cubic centimeter (`g/cm3`) ]
 
 # What info does it contain?
@@ -45,6 +44,7 @@ Every and each chemical element will have the next data:
    1. In Kelvin
    2. In Celsius degrees
    3. In Fahrenheit degrees
+   4. Test
 13. Boiling point
    1. In Kelvin
    2. In Celsius degrees
