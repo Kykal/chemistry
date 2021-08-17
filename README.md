@@ -17,7 +17,7 @@ to-be-added
 ```
 
 # Units
-- Atomic mass [units of mass (`u`)]
+- Atomic mass [unified atomic mass unit (`u`)]
 - Atomic radius by van der Waals [picometre (`pm`)]
 - Ionization energy & electron affinity [electronVolts (`eV`)]
 - Melting & boiling points [Kelvin (`K`)]
