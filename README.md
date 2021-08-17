@@ -23,6 +23,20 @@ to-be-added
 - Melting & boiling points [Kelvin (`K`)]
 - Density [grams per cubic centimeter (`g/cm3`) ]
 
+# What info does it contain?
+Every and each chemical element will have the next data:
+1. Name
+2. Symbol
+3. Atomic number
+4. Standard state
+5. Atomic mass (u)
+6. Electron configuration
+7. Oxidation states
+8. Electronegativity.
+   1. In Pauling scale
+   2. In Allen scale
+
+
 # References
 All this information was gathered thanks to:
 - National Center for Biotechnology Information (2021). PubChem Periodic Table of Elements. Retrieved August 16, 2021 from https://pubchem.ncbi.nlm.nih.gov/periodic-table/.
