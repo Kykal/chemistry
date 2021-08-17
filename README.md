@@ -44,7 +44,6 @@ Every and each chemical element will have the next data:
    1. In Kelvin
    2. In Celsius degrees
    3. In Fahrenheit degrees
-   4. Test
 13. Boiling point
    1. In Kelvin
    2. In Celsius degrees
@@ -59,7 +58,6 @@ Every and each chemical element will have the next data:
    2. Group A (1 - 18)
    3. Group B (IA - VIIIA)
    4. Clasification (Nonmetals - Metals)
-
 
 # References
 All this information was gathered thanks to:
