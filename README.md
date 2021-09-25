@@ -75,7 +75,7 @@ Every and each chemical element will have the next data:
    2. If you will use all elements: <br>
    **Note:** to make it easier for users, the index 0 is *null*. This way you can call the element using its atomic number. ;)
    ```JS
-   const { element } = require('@kykal/chemistry');
+   const { element } = require('@kykal/chemistry'); //Import all elements in an array
 
    console.log( element[1].melting_point ); //Hydrogen
    //Output: { kelvin: 13.81, celsius: -259.34, fahrenheit: -434.81 }
