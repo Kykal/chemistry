@@ -13,40 +13,53 @@ A library that contains all data from all elements in the periodic table.
 
 # What info does it contain?
 Every and each chemical element will have the next data:
-1. Name
-2. Symbol
-3. Atomic number
-4. Standard state
-5. Atomic mass (u)
-6. Electron configuration
-7. Oxidation states
-8. Electronegativity.
-   1. In Pauling scale
-   2. In Allen scale
-9. Atomic radius (pm)
-   1. In van der Waals
-   2. In empirical
-   3. In covalent
-10. Ionization energy (eV)
-11. Electron affinity (eV)
-12. Melting point
-   1. In Kelvin
-   2. In Celsius degrees
-   3. In Fahrenheit degrees
-13. Boiling point
-   1. In Kelvin
-   2. In Celsius degrees
-   3. In Fahrenheit degrees
-14. Density (g/cm^3)
-15. Discovered
-   1. Discovered by
-   2. Year discovered
-16. Period
-17. Group
-   1. Block (Nonmetals - Noble gas)
-   2. Group A (1 - 18)
-   3. Group B (IA - VIIIA)
-   4. Clasification (Nonmetals - Metals)
+```SSH
+{
+   name,
+   symbol,
+   atomic_number,
+   standard_number,
+   standard_state,
+   atomic_mass,
+   electron_configuration,
+   oxidation_states,
+   electronegativity: {
+      pauling_scale,
+      ,
+      allen_scale
+   },
+   atomic_radius: {
+      van_der_waals,
+      empirical,
+      ,
+      covalent
+   },
+   ionization_energy,
+   electron_affinity,
+   melting_point: {
+      kelvin,
+      celsius,
+      fahrenheit
+   },
+   boiling_point: {
+      kelvin,
+      celsius,
+      fahrenheit
+   },
+   density,
+   discovered: {
+      by,
+      year
+   },
+   period,
+   group: {
+      block,
+      group_A,
+      group_B,
+      classification
+   }
+}
+```
 
 # References
 All this information was gathered thanks to:
