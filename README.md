@@ -23,29 +23,24 @@ Every and each chemical element will have the next data:
 8. Electronegativity.
    1. In Pauling scale
    2. In Allen scale
-
 9. Atomic radius (pm)
    1. In van der Waals
    2. In empirical
    3. In covalent
-
 10. Ionization energy (eV)
 11. Electron affinity (eV)
 12. Melting point
    1. In Kelvin
    2. In Celsius degrees
    3. In Fahrenheit degrees
-
 13. Boiling point
    1. In Kelvin
    2. In Celsius degrees
    3. In Fahrenheit degrees
-
 14. Density (g/cm^3)
 15. Discovered
    1. Discovered by
    2. Year discovered
-   
 16. Period
 17. Group
    1. Block (Nonmetals - Noble gas)
