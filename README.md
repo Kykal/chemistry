@@ -25,13 +25,11 @@ Every and each chemical element will have the next data:
    oxidation_states,
    electronegativity: {
       pauling_scale,
-      ,
       allen_scale
    },
    atomic_radius: {
       van_der_waals,
       empirical,
-      ,
       covalent
    },
    ionization_energy,
@@ -63,4 +61,4 @@ Every and each chemical element will have the next data:
 
 # References
 All this information was gathered thanks to:
-- National Center for Biotechnology Information (2021). PubChem Periodic Table of Elements. Retrieved August 16, 2021 from https://pubchem18.ncbi.nlm.nih.gov/periodic-table/.
+- National Center for Biotechnology Information (2021). PubChem Periodic Table of Elements. Retrieved September 25, 2021 from https://pubchem.ncbi.nlm.nih.gov/periodic-table/.
