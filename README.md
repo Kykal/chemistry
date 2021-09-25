@@ -67,7 +67,7 @@ Every and each chemical element will have the next data:
 2. You can import the elements to your file in two ways:
    1. If you will use a certain amount of elements, for example:
    ```JS
-   const { helium, argon } = require('@kykal/chemistry');
+   const { helium, argon, ..., uranium } = require('@kykal/chemistry');
    
    console.log( helium.discovered.by );
    //Output: Pierre-Jules-Cesar Janssen
