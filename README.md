@@ -65,7 +65,7 @@ Every and each chemical element will have the next data:
    npm i @kykal/chemistry
    ```
 2. You can import the elements to your file in two ways:
-   1. If you will use a certain amount of elements, in example:
+   1. If you will use a certain amount of elements, for example:
    ```JS
    const { helium, argon } = require('@kykal/chemistry');
    
