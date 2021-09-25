@@ -5,17 +5,6 @@
 # What is this?
 A library that contains all data from all elements in the periodic table.
 
-# Installation
-Using npm
-```
-npm i chemistrylib
-```
-
-Using yarn
-```
-to-be-added
-```
-
 # Units
 - Atomic mass [unified atomic mass unit (`u`)]
 - Atomic radius [picometre (`pm`)]
