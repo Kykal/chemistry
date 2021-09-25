@@ -1,5 +1,5 @@
 {
-  "name": "chemistrylib",
+  "name": "@kykal/chemistrylib",
   "version": "0.2.0",
   "description": "A library that contains all data from all elements in the periodic table.",
   "main": "index.js",
