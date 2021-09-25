@@ -1,5 +1,5 @@
 {
-  "name": "@kykal/chemistrylib",
+  "name": "@kykal/chemistry",
   "version": "0.2.0",
   "description": "A library that contains all data from all elements in the periodic table.",
   "main": "index.js",
@@ -24,6 +24,9 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Kykal/chemistry-npm/issues"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "homepage": "https://github.com/Kykal/chemistry-npm#readme"
 }
