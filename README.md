@@ -61,7 +61,9 @@ Every and each chemical element will have the next data:
 
 ## How to import
 1. Install package using:
-   ``npm i @kykal/chemistry``
+   ```SSH
+   npm i @kykal/chemistry
+   ```
 2. You can import the elements to your file in two ways:
    1. If you will use a certain amount of elements, in example:
    ```JS
