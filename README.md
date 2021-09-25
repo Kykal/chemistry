@@ -68,12 +68,10 @@ Every and each chemical element will have the next data:
    1. If you will use a certain amount of elements, in example:
    ```JS
    const { helium, argon } = require('@kykal/chemistry');
+   
+   console.log( helium.discovered.by );
+   //Output: 'Pierre-Jules-Cesar Janssen'
    ```
-      Example of printing data from element:
-      ```JS
-         console.log( helium.discovered.by );
-         //Output: 'Pierre-Jules-Cesar Janssen'
-      ```
    2. If you will use all elements:
    ```JS
    const elements = require('@kykal/chemistry');
