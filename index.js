@@ -1,1 +1,0 @@
-module.exports = requiere( './src/chemistryElements.js' );
